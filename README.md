@@ -1,25 +1,25 @@
-<<<<<<< HEAD
-# README
+# Blog
+Rails Application by Hunter Parks
+***
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### Description
+This program is meant as a testing program of the capabilities and functionality for Rails.
 
-Things you may want to cover:
+This program is a blog using the tutorial on the rails website following the documentation. This program has the following functionality...
+* Sign in (not fully implemented)
+* CRUD functionality for Articles
+* CRUD functionality for Comments
+***
+### Dependencies
+```
+Ruby on Rails
+```
+***
 
-* Ruby version
+### Known Bugs
+* Cannot use destroy functionality on Articles at this time
 
-* System dependencies
+***
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+### Copyright
+This software is licensed under the GNU General Public License
